@@ -423,7 +423,7 @@ I filled out my edit form like this:
 
 ![](http://readme-pics.s3.amazonaws.com/update-owner.png)
 
-Notice that I've unchecked the first two pets, Maddy and Nona, and checked the
+Notice that I've` unchecked the first two pets, Maddy and Nona, and checked the
 next two pets.
 
 My `params` hash consequently looks like this:
